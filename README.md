@@ -26,8 +26,8 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 
-### Developed By:ARCHANA T
-### Register No:212223240013
+### Developed By: DEEPIKA R
+### Register No:212223230038
 
 ## i) Write the frame as JPG file
 ```
